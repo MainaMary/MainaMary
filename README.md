@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mainamary321@gmail.com
 - ⚡ Fun fact: I like reading and hosting events.
 -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MainaMary&theme=radical)
