@@ -4,8 +4,8 @@
 #### - 👯 I’m looking to collaborate on open source projects
 #### - 🤔 I’m looking for help with job opportunities and freelancing gigs
 #### - 💬 Ask me about React, Firebase , React Query
-#### - 📫 How to reach me: mainamary321@gmail.com
-#### - ⚡ Fun fact: I like reading and hosting events.
+#### - 📫 How to reach me: https://mary-maina-portfolio.netlify.app/
+
 
 
 <!--
