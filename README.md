@@ -1,6 +1,5 @@
 ### Hi there 👋
-#### - 🔭 I’m currently working on a full stack social media application.
-#### - 🌱 I’m currently learning Testing React apps and React perfomance
+#### - 🔭 I’m currently working on a full stack job application.
 #### - 👯 I’m looking to collaborate on open source projects
 #### - 🤔 I’m looking for help with job opportunities and freelancing gigs
 #### - 💬 Ask me about React, Firebase , React Query
