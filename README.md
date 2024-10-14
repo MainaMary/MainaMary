@@ -1,7 +1,6 @@
 ### Hi there 👋
 #### - 👯 I’m looking to collaborate on open source projects
-#### - 🤔 I’m looking for help with job opportunities and freelancing gigs
-#### - 💬 Ask me about React, Firebase , React Query
+#### - 💬 Ask me about React, Firebase , React Query, GraphQL
 #### - 📫 How to reach me: https://mary-maina-portfolio.netlify.app/
 
 
